@@ -9,7 +9,7 @@ I specialize in bridge-building between data science, machine learning, and adva
 * **Technical Frameworks:** ISO2631 Mechanical Vibration Standards
 
 ## Featured Projects
-* **[FIT Location File Generator](https://github.com):** Custom parsing and generation workflows for telemetry data files.
+* **[POI collector along gpx route](https://github.com/Tim-De-Witte/collect_POIs_on_gpx):** Collecting POI information based on telemetry data files.
 * **[Machine Learning Prediction Engine](https://github.com):** End-to-end predictive modelling systems.
 * **[FE Rubber Track Temperature Profile](https://github.com/Tim-De-Witte/FE_rubbertrack_temperature_profile):** Advanced finite element thermal calculations.
 
