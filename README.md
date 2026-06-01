@@ -7,6 +7,7 @@ I specialize in bridge-building between data science, machine learning, and adva
 * **Data Science & ML:** Predictive modeling, Recommendation Systems
 * **Engineering Simulation:** Finite Element Analysis (FEA), Thermal Profiling, Material Curing Simulation
 * **Technical Frameworks:** ISO2631 Mechanical Vibration Standards
+* **Ultracycling:** POI database and FIT file generation. Banned roads check.
 
 ## Featured Projects
 * **[POI collector along gpx route](https://github.com/Tim-De-Witte/collect_POIs_on_gpx):** Collecting POI information based on telemetry data files.
