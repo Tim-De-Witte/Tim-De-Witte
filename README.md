@@ -1,4 +1,4 @@
-# Hi, I'm Tim De Witte 👋
+# Hi, I'm Tim De Witte
 ### R&D Lead, Product Development Manager and Data Scientist
 
 I specialize in bridge-building between data science, machine learning, and advanced engineering simulations (including finite element analysis and thermal modeling).
