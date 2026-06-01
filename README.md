@@ -10,7 +10,8 @@ I specialize in bridge-building between data science, machine learning, and adva
 
 ## Featured Projects
 * **[POI collector along gpx route](https://github.com/Tim-De-Witte/collect_POIs_on_gpx):** Collecting POI information based on telemetry data files.
-* **[Machine Learning Prediction Engine](https://github.com):** End-to-end predictive modelling systems.
+* **[Machine Learning Prediction Engine](https://github.com/Tim-De-Witte/machine_learning_prediction):** End-to-end predictive modelling systems.
+* **[Mechanical vibration analysis](https://github.com/Tim-De-Witte/machine_learning_prediction):** Full analysis of mechanical vibration data into comfort rating.
 * **[FE Rubber Track Temperature Profile](https://github.com/Tim-De-Witte/FE_rubbertrack_temperature_profile):** Advanced finite element thermal calculations.
 
 ---
