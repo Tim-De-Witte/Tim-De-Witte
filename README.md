@@ -11,7 +11,7 @@ I specialize in bridge-building between data science, machine learning, and adva
 ## Featured Projects
 * **[FIT Location File Generator](https://github.com):** Custom parsing and generation workflows for telemetry data files.
 * **[Machine Learning Prediction Engine](https://github.com):** End-to-end predictive modelling systems.
-* **[FE Rubber Track Temperature Profile](https://github.com):** Advanced finite element thermal calculations.
+* **[FE Rubber Track Temperature Profile]([https://github.com](https://github.com/Tim-De-Witte/FE_rubbertrack_temperature_profile)):** Advanced finite element thermal calculations.
 
 ---
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tim-de-witte/) or via Email (dewittetim@gmail.com).
